@@ -12,12 +12,3 @@ función galton para definir los intervalos del histograma y para determinar el 
 
 Finalmente, si el script se ejecuta como el programa principal, se ejecuta la simulación de la tabla de Galton con 12 bolas y 3000 pasos, y 
 luego se muestra el histograma de la distribución de las bolas.
-
-CONCLUSION:
-
-Este proyecto representó un desafío significativo para mí, ya que inicialmente me encontré algo perdido respecto a cómo empezar y con qué 
-elementos abordarlo. Gracias a la orientación proporcionada por el docente, pude superar esta fase inicial y avanzar en la realización del 
-proyecto. En términos generales, me complace haber llevado a cabo esta iniciativa. Resultó ser tanto entretenido como desafiante, con complicaciones 
-que logre resolver mediante investigación y mejora de nuestra lógica para abordar diversos problemas que surgieron durante el proceso. 
-Personalmente, considero que el bootcamp está resultando sumamente beneficioso, ya que nos expone a desafíos que nos instan a investigar, 
-lo cual es un aspecto fundamental en este ámbito.
